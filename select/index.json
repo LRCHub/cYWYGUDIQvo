@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "ドラえもん",
+  "base_artist": "星野 源",
+  "createdAt": "2025-12-31T09:27:23.179060Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ドラえもん",
+      "artist": "星野源",
+      "has_synced": true,
+      "path": "select/01_ドラえもん_星野源.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ドラえもん・えかきうた",
+      "artist": "大山のぶ代",
+      "has_synced": false,
+      "path": "select/02_ドラえもん・えかきうた_大山のぶ代.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ドラえもん・えかきうた",
+      "artist": "大山のぶ代",
+      "has_synced": true,
+      "path": "select/03_ドラえもん・えかきうた_大山のぶ代.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (ドラえもん)",
+      "artist": "mao",
+      "has_synced": true,
+      "path": "select/04_夢をかなえてドラえもん_(ドラえもん)_mao.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スネ夫のおぼっちゃマンボ(ドラえもん)",
+      "artist": "関智一(スネ夫)",
+      "has_synced": true,
+      "path": "select/05_スネ夫のおぼっちゃマンボ(ドラえもん)_関智一(スネ夫).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (『ドラえもん』より) [テレビサイズ]",
+      "artist": "Mao feat. ひまわりキッズ",
+      "has_synced": true,
+      "path": "select/06_夢をかなえてドラえもん_(『ドラえもん』より)_[テレビサイズ]_Mao_feat._ひまわりキッズ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (ドラえもん)",
+      "artist": "Yuko Koura",
+      "has_synced": false,
+      "path": "select/07_夢をかなえてドラえもん_(ドラえもん)_Yuko_Koura.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "夢をかなえてドラえもん (オープニング／ドラえもん)",
+      "artist": "Anzu Lilia",
+      "has_synced": false,
+      "path": "select/08_夢をかなえてドラえもん_(オープニング_ドラえもん)_Anzu_Lilia.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ドラえもん はじまるよ",
+      "artist": "水田わさび",
+      "has_synced": false,
+      "path": "select/09_ドラえもん_はじまるよ_水田わさび.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ドラえもん ひみつ道具の数えうた",
+      "artist": "水田わさび",
+      "has_synced": false,
+      "path": "select/10_ドラえもん_ひみつ道具の数えうた_水田わさび.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ドラえもん・えかきうた",
+      "artist": "ドラえもん",
+      "has_synced": true,
+      "path": "select/11_ドラえもん・えかきうた_ドラえもん.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ドラえもん・えかきうた",
+      "artist": "水田わさび (ドラえもん)",
+      "has_synced": true,
+      "path": "select/12_ドラえもん・えかきうた_水田わさび_(ドラえもん).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "幸せのドア (短編映画「ドラえもん のび太の結婚前夜」から)",
+      "artist": "中西保志、沢田知可子",
+      "has_synced": true,
+      "path": "select/13_幸せのドア_(短編映画「ドラえもん_のび太の結婚前夜」から)_中西保志、沢田知可子.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ドラえもん",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_ドラえもん_星野源.txt"
+    }
+  ]
+}
